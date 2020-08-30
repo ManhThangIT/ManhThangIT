@@ -29,8 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhThangIT&layout=compact)](https://github.com/ManhThangIT/ManhThangIT)
 
 ### Spotify Playing 🎧
-[<img src="https://open.spotify.com/collection/tracks" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31b56xpdts22dwsa7dbscam5gmlq)
-
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31b56xpdts22dwsa7dbscam5gmlq)
 
 Thanks! :heart:
 
